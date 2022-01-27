@@ -1,16 +1,26 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm WhiteCat</h1>
+</div>
 
-<!--
-**CuteWhiteCat/CuteWhiteCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📜 About Me
+* 📘 Studing in **[Chenggong High School](https://www.cksh.tp.edu.tw/)**
+* 🏠 Live in Taipei, Taiwan
+* 🗒️ Learning **Node.js**
+* 🎮 Love **Music game**
 
-Here are some ideas to get you started:
+## 🔧 Language and Tools
+<p align="left"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 My Github Stats
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CuteWhiteCat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuteWhiteCat&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+  
+![Snake animation](https://github.com/CuteWhiteCat/CuteWhiteCat/blob/output/github-contribution-grid-snake.svg)
