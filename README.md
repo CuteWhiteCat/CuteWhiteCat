@@ -3,9 +3,8 @@
 </div>
 
 ## 📜 About Me
-* 📘 Studing in **[Chenggong High School](https://www.cksh.tp.edu.tw/)**
+* 📘 Studing in **[National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/nycu/ch/index)**
 * 🏠 Live in Taipei, Taiwan
-* 🗒️ Learning **Node.js**
 * 🎮 Love **Music game**
 
 ## 📊 My Github Stats
